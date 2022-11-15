@@ -11,3 +11,5 @@ It only has six entries and when called returns the following values:
 - price
 - paymentLink
 - featured
+
+You need to go to /albums.json to see the data.
