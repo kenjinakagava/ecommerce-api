@@ -11,7 +11,8 @@
     "description": "Evangelion Finally is a collection of vocal songs performed by Yoko Takahashi and Megumi Hayashibara as heard in the hit anime series Neon Genesis Evangelion and the 2009 film Evangelion: 2.0 You Can (Not) Advance.\n The 15-track collection includes Takahashi’s well-known opening song to the series 'The Cruel Angel’s Thesis,' as well as new covers of original songs including 'FLY ME TO THE MOON (2020 Version),' a new recording of the classic jazz standard featured in the show’s end credit, and a new vocal arrangement from Takahashi of 'Kokoro yo Genshi ni Modore 2020.",
     "price": 129.99,
     "paymentLink": "https://buy.stripe.com/test_aEUeVGe4n0ff3za006",
-    "featured": true
+    "featured": true,
+    "category": "anime"
   },
 
   {
@@ -26,7 +27,8 @@
     "description": "TV anime series 'Neon Genesis EVANGELION' was the first broadcast in 1995, taking the world by storm.\n The 'Evangelion: New Theatrical Edition' film series started in 2007 with Evangelion: 1.0 You Are (Not) Alone, followed by Evangelion: 2.0 You Can (Not) Advance and Evangelion: 3.0 You Can (Not) Redo, all becoming record hits at the box office.",
     "price": 129.99,
     "paymentLink": "https://buy.stripe.com/test_7sI7te1hB8LLc5G5kp",
-    "featured": true
+    "featured": true,
+    "category": "anime"
   },
   {
     "id": 3,
@@ -40,7 +42,8 @@
     "description": "RADWIMPS made an album for the theatrical animation feature by Makoto Shinkai, 'Your Name.'\n This is vinyl edition. Consists of two discs (33RPM).",
     "price": 804.47,
     "paymentLink": "https://buy.stripe.com/test_4gw8xi0dx3rr2v6148",
-    "featured": true
+    "featured": true,
+    "category": "anime"
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
     "shortDescription": "The complete original soundtrack from the critically acclaimed anime movie A Silent Voice, produced by Kyoto Animation and directed by Naoko Yamada, and adapted from the award-winning manga of the same name.",
     "description": "The complete original soundtrack from the critically acclaimed anime movie A Silent Voice, produced by Kyoto Animation and directed by Naoko Yamada, and adapted from the award-winning manga of the same name.\nThis emotional journey of ambient music is composed by Kensuke Ushio, whose other soundtrack compositions for anime include the Netflix series Devilman Crybaby and Japan Sinks 2020.",
     "price": 53.98,
-    "paymentLink": "https://buy.stripe.com/test_8wM8xie4n8LL2v66or"
+    "paymentLink": "https://buy.stripe.com/test_8wM8xie4n8LL2v66or",
+    "category": "anime"
   },
 
   {
@@ -67,19 +71,49 @@
     "shortDescription": "The soundtrack to the first season 1 of the hit anime series, Attack on Titan, composed by Hiroyuki Sawano – now on vinyl for the first time!",
     "description": "The soundtrack to the first season 1 of the hit anime series, Attack on Titan, composed by Hiroyuki Sawano – now on vinyl for the first time!\nThe first season of the TV series broadcast on Adult Swim in 2014 and its music is composed by prolific and popular Japanese composer Hiroyuki Sawano (Promare, Kill la Kill, Blue Exorcist), who provides a bombastic mix of electronic music, guitar-driven tracks and orchestral overtones.\nComes in gatefold packaging with 3 x 120 Clear With Blue & Black Sky Splatter colored vinyl.",
     "price": 58.86,
-    "paymentLink": "https://buy.stripe.com/test_14kbJu7FZ7HHedO146"
+    "paymentLink": "https://buy.stripe.com/test_14kbJu7FZ7HHedO146",
+    "category": "anime"
   },
   {
     "id": 6,
     "title": "My Neighbor Totoro: Image Album Original Soundtrack",
     "cover": [
-      "https://i.ibb.co/GVJZwDs/aotsmallcover.webp",
+      "https://i.ibb.co/pLbm4xx/totorosmallcover.webp",
       "https://i.ibb.co/yp2tWzH/totoromediumcover.webp",
       "https://i.ibb.co/fCt2mJ0/totorobigcover.webp"
     ],
     "shortDescription": "Limited vinyl LP pressing. Image album created with the concept of 'making songs which children really want and can sing out loud with their mouth widely opened.'",
     "description": "Limited vinyl LP pressing. Image album created with the concept of 'making songs which children really want and can sing out loud with their mouth widely opened.'\n Including 10 songs + one instrumental. Song : Azumi Inoue, Joe Hisaishi, Kumiko Mori, Taku Kitahara, Suginami Junior Chorus. With 16 pages of all the melody scores.",
-    "price": 56.94,
-    "paymentLink": "https://buy.stripe.com/test_dR63cYbWfe650mY3cd"
+    "price": 51.54,
+    "paymentLink": "https://buy.stripe.com/test_dR63cYbWfe650mY3cd",
+    "category": "anime"
+  },
+  {
+    "id": 7,
+    "title": "The Dark Side Of The Moon",
+    "cover": [
+      "https://i.ibb.co/Bcb0y8k/moonsmallcover.webp",
+      "https://i.ibb.co/hK8Vq4P/moonmediumcover.webp",
+      "https://i.ibb.co/3kpZYhK/moonbigcover.webp"
+    ],
+    "shortDescription": "PINK FLOYD / DARK SIDE OF MOON - Vinyl LP. The Dark Side of the Moon is the eighth album by the English rock band Pink Floyd.",
+    "description": "PINK FLOYD / DARK SIDE OF MOON - Vinyl LP. The Dark Side of the Moon is the eighth album by the English rock band Pink Floyd. Originally released on 1 March 1973, on the label Harvest, it built on ideas explored in the band's earlier recordings and live shows, but departs from instrumental thematic by founding member Syd Barrett. The album explores themes including conflict, greed, the passage of time, and mental illness, the latter partly inspired by Barrett's deteriorating mental state. - Developed during live performances, an early version was premiered several months before recording began; new material was recorded in two sessions in 1972 and 1973 at Abbey Road in London.",
+    "price": 18.99,
+    "paymentLink": "https://buy.stripe.com/test_4gwdRCgcvged3zacMU",
+    "category": "rock"
+  },
+  {
+    "id": 8,
+    "title": "Ultimate Sinatra",
+    "cover": [
+      "https://i.ibb.co/TP0QQMB/sinatrasmallcover.webp",
+      "https://i.ibb.co/W3gq72Z/sinatramediumcover.webp",
+      "https://i.ibb.co/xjdqdjV/sinatrabigcover.webp"
+    ],
+    "shortDescription": "Ultimate Sinatra's 180-gram 2LP version brims with 24 stellar recordings representing Frank Sinatra's unparalleled, 6 decade-long recording career.",
+    "description": "Ultimate Sinatra's 180-gram 2LP version brims with 24 stellar recordings representing Frank Sinatra's unparalleled, 6 decade-long recording career. Ultimate Sinatra presents key recordings from the Chairman of the Board's Columbia, Capitol & Reprise repertoire, together for the first time. Led by 'All Or Nothing At All,' this collection is stacked with standouts, including 'Come Fly With Me' (1957), 'The Way You Look Tonight' (1964), 'Theme From New York, New York' (1979) and many more.'",
+    "price": 36.95,
+    "paymentLink": "https://buy.stripe.com/test_aEU6paf8re659Xy007",
+    "category": "jazz"
   }
 ]
